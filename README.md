@@ -1,2 +1,3 @@
 # first-semester
-desarrollicus machinicus
+Programas utilizados:
+RenPy 8.3.7
